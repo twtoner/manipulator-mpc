@@ -1,0 +1,15 @@
+MEX {
+	global:
+		mexFunction;
+		mexfilerequiredapiversion;
+		emlrtMexFcnProperties;
+		collisionFcn_U_h;
+		collisionFcn_U_h_initialize;
+		collisionFcn_U_h_terminate;
+		collisionFcn_U_h_atexit;
+		emxInit_real_T;
+		emxEnsureCapacity_real_T;
+		emxFree_real_T;
+	local:
+		*;
+};
