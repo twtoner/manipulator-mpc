@@ -1,0 +1,128 @@
+[
+  {
+    "directory": "G:\\My Drive\\AEROSP 740\\project\\codegen\\mex\\collisionFcn_U",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2021a\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"G:\\My Drive\\AEROSP 740\\project\\codegen\\mex\\collisionFcn_U\" -I \"G:\\My Drive\\AEROSP 740\\project\" -I \"G:\\My Drive\\AEROSP 740\\project\\codegen\\mex\\collisionFcn_U\\interface\" -I \"C:\\Program Files\\MATLAB\\R2021a\\extern\\include\" -I \".\" -DMODEL=collisionFcn_U_mex -D__USE_MINGW_ANSI_STDIO=1   collisionFcn_U_data.c -o build/win64/collisionFcn_U_data.o",
+    "file": "collisionFcn_U_data.c",
+    "output": "build/win64/collisionFcn_U_data.o"
+  },
+  {
+    "directory": "G:\\My Drive\\AEROSP 740\\project\\codegen\\mex\\collisionFcn_U",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2021a\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"G:\\My Drive\\AEROSP 740\\project\\codegen\\mex\\collisionFcn_U\" -I \"G:\\My Drive\\AEROSP 740\\project\" -I \"G:\\My Drive\\AEROSP 740\\project\\codegen\\mex\\collisionFcn_U\\interface\" -I \"C:\\Program Files\\MATLAB\\R2021a\\extern\\include\" -I \".\" -DMODEL=collisionFcn_U_mex -D__USE_MINGW_ANSI_STDIO=1   rt_nonfinite.c -o build/win64/rt_nonfinite.o",
+    "file": "rt_nonfinite.c",
+    "output": "build/win64/rt_nonfinite.o"
+  },
+  {
+    "directory": "G:\\My Drive\\AEROSP 740\\project\\codegen\\mex\\collisionFcn_U",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2021a\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"G:\\My Drive\\AEROSP 740\\project\\codegen\\mex\\collisionFcn_U\" -I \"G:\\My Drive\\AEROSP 740\\project\" -I \"G:\\My Drive\\AEROSP 740\\project\\codegen\\mex\\collisionFcn_U\\interface\" -I \"C:\\Program Files\\MATLAB\\R2021a\\extern\\include\" -I \".\" -DMODEL=collisionFcn_U_mex -D__USE_MINGW_ANSI_STDIO=1   collisionFcn_U_initialize.c -o build/win64/collisionFcn_U_initialize.o",
+    "file": "collisionFcn_U_initialize.c",
+    "output": "build/win64/collisionFcn_U_initialize.o"
+  },
+  {
+    "directory": "G:\\My Drive\\AEROSP 740\\project\\codegen\\mex\\collisionFcn_U",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2021a\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"G:\\My Drive\\AEROSP 740\\project\\codegen\\mex\\collisionFcn_U\" -I \"G:\\My Drive\\AEROSP 740\\project\" -I \"G:\\My Drive\\AEROSP 740\\project\\codegen\\mex\\collisionFcn_U\\interface\" -I \"C:\\Program Files\\MATLAB\\R2021a\\extern\\include\" -I \".\" -DMODEL=collisionFcn_U_mex -D__USE_MINGW_ANSI_STDIO=1   collisionFcn_U_terminate.c -o build/win64/collisionFcn_U_terminate.o",
+    "file": "collisionFcn_U_terminate.c",
+    "output": "build/win64/collisionFcn_U_terminate.o"
+  },
+  {
+    "directory": "G:\\My Drive\\AEROSP 740\\project\\codegen\\mex\\collisionFcn_U",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2021a\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"G:\\My Drive\\AEROSP 740\\project\\codegen\\mex\\collisionFcn_U\" -I \"G:\\My Drive\\AEROSP 740\\project\" -I \"G:\\My Drive\\AEROSP 740\\project\\codegen\\mex\\collisionFcn_U\\interface\" -I \"C:\\Program Files\\MATLAB\\R2021a\\extern\\include\" -I \".\" -DMODEL=collisionFcn_U_mex -D__USE_MINGW_ANSI_STDIO=1   collisionFcn_U.c -o build/win64/collisionFcn_U.o",
+    "file": "collisionFcn_U.c",
+    "output": "build/win64/collisionFcn_U.o"
+  },
+  {
+    "directory": "G:\\My Drive\\AEROSP 740\\project\\codegen\\mex\\collisionFcn_U",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2021a\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"G:\\My Drive\\AEROSP 740\\project\\codegen\\mex\\collisionFcn_U\" -I \"G:\\My Drive\\AEROSP 740\\project\" -I \"G:\\My Drive\\AEROSP 740\\project\\codegen\\mex\\collisionFcn_U\\interface\" -I \"C:\\Program Files\\MATLAB\\R2021a\\extern\\include\" -I \".\" -DMODEL=collisionFcn_U_mex -D__USE_MINGW_ANSI_STDIO=1   eml_int_forloop_overflow_check.c -o build/win64/eml_int_forloop_overflow_check.o",
+    "file": "eml_int_forloop_overflow_check.c",
+    "output": "build/win64/eml_int_forloop_overflow_check.o"
+  },
+  {
+    "directory": "G:\\My Drive\\AEROSP 740\\project\\codegen\\mex\\collisionFcn_U",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2021a\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"G:\\My Drive\\AEROSP 740\\project\\codegen\\mex\\collisionFcn_U\" -I \"G:\\My Drive\\AEROSP 740\\project\" -I \"G:\\My Drive\\AEROSP 740\\project\\codegen\\mex\\collisionFcn_U\\interface\" -I \"C:\\Program Files\\MATLAB\\R2021a\\extern\\include\" -I \".\" -DMODEL=collisionFcn_U_mex -D__USE_MINGW_ANSI_STDIO=1   repmat.c -o build/win64/repmat.o",
+    "file": "repmat.c",
+    "output": "build/win64/repmat.o"
+  },
+  {
+    "directory": "G:\\My Drive\\AEROSP 740\\project\\codegen\\mex\\collisionFcn_U",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2021a\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"G:\\My Drive\\AEROSP 740\\project\\codegen\\mex\\collisionFcn_U\" -I \"G:\\My Drive\\AEROSP 740\\project\" -I \"G:\\My Drive\\AEROSP 740\\project\\codegen\\mex\\collisionFcn_U\\interface\" -I \"C:\\Program Files\\MATLAB\\R2021a\\extern\\include\" -I \".\" -DMODEL=collisionFcn_U_mex -D__USE_MINGW_ANSI_STDIO=1   get_dn_ddndq.c -o build/win64/get_dn_ddndq.o",
+    "file": "get_dn_ddndq.c",
+    "output": "build/win64/get_dn_ddndq.o"
+  },
+  {
+    "directory": "G:\\My Drive\\AEROSP 740\\project\\codegen\\mex\\collisionFcn_U",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2021a\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"G:\\My Drive\\AEROSP 740\\project\\codegen\\mex\\collisionFcn_U\" -I \"G:\\My Drive\\AEROSP 740\\project\" -I \"G:\\My Drive\\AEROSP 740\\project\\codegen\\mex\\collisionFcn_U\\interface\" -I \"C:\\Program Files\\MATLAB\\R2021a\\extern\\include\" -I \".\" -DMODEL=collisionFcn_U_mex -D__USE_MINGW_ANSI_STDIO=1   dot.c -o build/win64/dot.o",
+    "file": "dot.c",
+    "output": "build/win64/dot.o"
+  },
+  {
+    "directory": "G:\\My Drive\\AEROSP 740\\project\\codegen\\mex\\collisionFcn_U",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2021a\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"G:\\My Drive\\AEROSP 740\\project\\codegen\\mex\\collisionFcn_U\" -I \"G:\\My Drive\\AEROSP 740\\project\" -I \"G:\\My Drive\\AEROSP 740\\project\\codegen\\mex\\collisionFcn_U\\interface\" -I \"C:\\Program Files\\MATLAB\\R2021a\\extern\\include\" -I \".\" -DMODEL=collisionFcn_U_mex -D__USE_MINGW_ANSI_STDIO=1   get_dn_3.c -o build/win64/get_dn_3.o",
+    "file": "get_dn_3.c",
+    "output": "build/win64/get_dn_3.o"
+  },
+  {
+    "directory": "G:\\My Drive\\AEROSP 740\\project\\codegen\\mex\\collisionFcn_U",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2021a\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"G:\\My Drive\\AEROSP 740\\project\\codegen\\mex\\collisionFcn_U\" -I \"G:\\My Drive\\AEROSP 740\\project\" -I \"G:\\My Drive\\AEROSP 740\\project\\codegen\\mex\\collisionFcn_U\\interface\" -I \"C:\\Program Files\\MATLAB\\R2021a\\extern\\include\" -I \".\" -DMODEL=collisionFcn_U_mex -D__USE_MINGW_ANSI_STDIO=1   get_ddndq_3.c -o build/win64/get_ddndq_3.o",
+    "file": "get_ddndq_3.c",
+    "output": "build/win64/get_ddndq_3.o"
+  },
+  {
+    "directory": "G:\\My Drive\\AEROSP 740\\project\\codegen\\mex\\collisionFcn_U",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2021a\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"G:\\My Drive\\AEROSP 740\\project\\codegen\\mex\\collisionFcn_U\" -I \"G:\\My Drive\\AEROSP 740\\project\" -I \"G:\\My Drive\\AEROSP 740\\project\\codegen\\mex\\collisionFcn_U\\interface\" -I \"C:\\Program Files\\MATLAB\\R2021a\\extern\\include\" -I \".\" -DMODEL=collisionFcn_U_mex -D__USE_MINGW_ANSI_STDIO=1   find.c -o build/win64/find.o",
+    "file": "find.c",
+    "output": "build/win64/find.o"
+  },
+  {
+    "directory": "G:\\My Drive\\AEROSP 740\\project\\codegen\\mex\\collisionFcn_U",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2021a\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"G:\\My Drive\\AEROSP 740\\project\\codegen\\mex\\collisionFcn_U\" -I \"G:\\My Drive\\AEROSP 740\\project\" -I \"G:\\My Drive\\AEROSP 740\\project\\codegen\\mex\\collisionFcn_U\\interface\" -I \"C:\\Program Files\\MATLAB\\R2021a\\extern\\include\" -I \".\" -DMODEL=collisionFcn_U_mex -D__USE_MINGW_ANSI_STDIO=1   get_dn_1.c -o build/win64/get_dn_1.o",
+    "file": "get_dn_1.c",
+    "output": "build/win64/get_dn_1.o"
+  },
+  {
+    "directory": "G:\\My Drive\\AEROSP 740\\project\\codegen\\mex\\collisionFcn_U",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2021a\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"G:\\My Drive\\AEROSP 740\\project\\codegen\\mex\\collisionFcn_U\" -I \"G:\\My Drive\\AEROSP 740\\project\" -I \"G:\\My Drive\\AEROSP 740\\project\\codegen\\mex\\collisionFcn_U\\interface\" -I \"C:\\Program Files\\MATLAB\\R2021a\\extern\\include\" -I \".\" -DMODEL=collisionFcn_U_mex -D__USE_MINGW_ANSI_STDIO=1   get_dn_2.c -o build/win64/get_dn_2.o",
+    "file": "get_dn_2.c",
+    "output": "build/win64/get_dn_2.o"
+  },
+  {
+    "directory": "G:\\My Drive\\AEROSP 740\\project\\codegen\\mex\\collisionFcn_U",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2021a\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"G:\\My Drive\\AEROSP 740\\project\\codegen\\mex\\collisionFcn_U\" -I \"G:\\My Drive\\AEROSP 740\\project\" -I \"G:\\My Drive\\AEROSP 740\\project\\codegen\\mex\\collisionFcn_U\\interface\" -I \"C:\\Program Files\\MATLAB\\R2021a\\extern\\include\" -I \".\" -DMODEL=collisionFcn_U_mex -D__USE_MINGW_ANSI_STDIO=1   get_ddndq_1.c -o build/win64/get_ddndq_1.o",
+    "file": "get_ddndq_1.c",
+    "output": "build/win64/get_ddndq_1.o"
+  },
+  {
+    "directory": "G:\\My Drive\\AEROSP 740\\project\\codegen\\mex\\collisionFcn_U",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2021a\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"G:\\My Drive\\AEROSP 740\\project\\codegen\\mex\\collisionFcn_U\" -I \"G:\\My Drive\\AEROSP 740\\project\" -I \"G:\\My Drive\\AEROSP 740\\project\\codegen\\mex\\collisionFcn_U\\interface\" -I \"C:\\Program Files\\MATLAB\\R2021a\\extern\\include\" -I \".\" -DMODEL=collisionFcn_U_mex -D__USE_MINGW_ANSI_STDIO=1   get_ddndq_2.c -o build/win64/get_ddndq_2.o",
+    "file": "get_ddndq_2.c",
+    "output": "build/win64/get_ddndq_2.o"
+  },
+  {
+    "directory": "G:\\My Drive\\AEROSP 740\\project\\codegen\\mex\\collisionFcn_U",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2021a\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"G:\\My Drive\\AEROSP 740\\project\\codegen\\mex\\collisionFcn_U\" -I \"G:\\My Drive\\AEROSP 740\\project\" -I \"G:\\My Drive\\AEROSP 740\\project\\codegen\\mex\\collisionFcn_U\\interface\" -I \"C:\\Program Files\\MATLAB\\R2021a\\extern\\include\" -I \".\" -DMODEL=collisionFcn_U_mex -D__USE_MINGW_ANSI_STDIO=1   interface/_coder_collisionFcn_U_api.c -o build/win64/_coder_collisionFcn_U_api.o",
+    "file": "interface/_coder_collisionFcn_U_api.c",
+    "output": "build/win64/_coder_collisionFcn_U_api.o"
+  },
+  {
+    "directory": "G:\\My Drive\\AEROSP 740\\project\\codegen\\mex\\collisionFcn_U",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2021a\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"G:\\My Drive\\AEROSP 740\\project\\codegen\\mex\\collisionFcn_U\" -I \"G:\\My Drive\\AEROSP 740\\project\" -I \"G:\\My Drive\\AEROSP 740\\project\\codegen\\mex\\collisionFcn_U\\interface\" -I \"C:\\Program Files\\MATLAB\\R2021a\\extern\\include\" -I \".\" -DMODEL=collisionFcn_U_mex -D__USE_MINGW_ANSI_STDIO=1   interface/_coder_collisionFcn_U_mex.c -o build/win64/_coder_collisionFcn_U_mex.o",
+    "file": "interface/_coder_collisionFcn_U_mex.c",
+    "output": "build/win64/_coder_collisionFcn_U_mex.o"
+  },
+  {
+    "directory": "G:\\My Drive\\AEROSP 740\\project\\codegen\\mex\\collisionFcn_U",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2021a\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"G:\\My Drive\\AEROSP 740\\project\\codegen\\mex\\collisionFcn_U\" -I \"G:\\My Drive\\AEROSP 740\\project\" -I \"G:\\My Drive\\AEROSP 740\\project\\codegen\\mex\\collisionFcn_U\\interface\" -I \"C:\\Program Files\\MATLAB\\R2021a\\extern\\include\" -I \".\" -DMODEL=collisionFcn_U_mex -D__USE_MINGW_ANSI_STDIO=1   collisionFcn_U_emxutil.c -o build/win64/collisionFcn_U_emxutil.o",
+    "file": "collisionFcn_U_emxutil.c",
+    "output": "build/win64/collisionFcn_U_emxutil.o"
+  },
+  {
+    "directory": "G:\\My Drive\\AEROSP 740\\project\\codegen\\mex\\collisionFcn_U",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2021a\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"G:\\My Drive\\AEROSP 740\\project\\codegen\\mex\\collisionFcn_U\" -I \"G:\\My Drive\\AEROSP 740\\project\" -I \"G:\\My Drive\\AEROSP 740\\project\\codegen\\mex\\collisionFcn_U\\interface\" -I \"C:\\Program Files\\MATLAB\\R2021a\\extern\\include\" -I \".\" -DMODEL=collisionFcn_U_mex -D__USE_MINGW_ANSI_STDIO=1   interface/_coder_collisionFcn_U_info.c -o build/win64/_coder_collisionFcn_U_info.o",
+    "file": "interface/_coder_collisionFcn_U_info.c",
+    "output": "build/win64/_coder_collisionFcn_U_info.o"
+  },
+  {
+    "directory": "G:\\My Drive\\AEROSP 740\\project\\codegen\\mex\\collisionFcn_U",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2021a\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"G:\\My Drive\\AEROSP 740\\project\\codegen\\mex\\collisionFcn_U\" -I \"G:\\My Drive\\AEROSP 740\\project\" -I \"G:\\My Drive\\AEROSP 740\\project\\codegen\\mex\\collisionFcn_U\\interface\" -I \"C:\\Program Files\\MATLAB\\R2021a\\extern\\include\" -I \".\" -DMODEL=collisionFcn_U_mex -D__USE_MINGW_ANSI_STDIO=1   \"C:/Program Files/MATLAB/R2021a/extern/version/c_mexapi_version.c\" -o build/win64/c_mexapi_version.o",
+    "file": "C:/Program Files/MATLAB/R2021a/extern/version/c_mexapi_version.c",
+    "output": "build/win64/c_mexapi_version.o"
+  }
+]
